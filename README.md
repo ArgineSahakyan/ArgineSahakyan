@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Data Science student at the Armenian State University of Economics<br><br>📊 Passionate about Data Analysis, Machine Learning, and Statistics<br><br>💻 Working with Python, R, Pandas, NumPy, Scikit-learn & Matplotlib<br><br>🌱 Currently learning Machine Learning, SQL, and Data Engineering<br><br>🤝 Open to collaborating on Data Science and AI projects<br><br>📫 Reach me: arginesahakyan293@gmail.com.com<br><br>⚡ Fun fact: I enjoy turning raw data into meaningful insights.
+🎓 Data Science student at the Armenian State University of Economics<br><br>📊 Passionate about Data Analysis, Machine Learning, and Statistics<br><br>💻 Working with Python, R, Pandas, NumPy, Scikit-learn & Matplotlib<br><br>🌱 Currently learning Machine Learning, SQL, and Data Engineering<br><br>🤝 Open to collaborating on Data Science and AI projects<br><br>📫 Reach me: arginesahakyan293@gmail.com<br><br>⚡ Fun fact: I enjoy turning raw data into meaningful insights.
 
 
 ## 🌐 Socials:
